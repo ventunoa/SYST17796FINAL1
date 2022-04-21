@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.mycompany.incomecalc.iCalcTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.039 s <<< FAILURE! - in com.mycompany.incomecalc.iCalcTest
+testCalculateNetBad  Time elapsed: 0.024 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <730> but was: <760>
+	at com.mycompany.incomecalc.iCalcTest.testCalculateNetBad(iCalcTest.java:63)
+
